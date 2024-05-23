@@ -7,7 +7,7 @@ The analysis includes summaries and data visualizations using tables and charts.
 ### Key Componenets of the Report
 1. **Data Preparation**
    - The mouse_metadata and study_results DataFrames are merged into a single DataFrame.
-   - A cleaned DataFrame is done on the unique mice IDs by removing any mouse ID with duplicated timep points.
+   - A cleaned DataFrame is done on the unique mice IDs by removing any mouse ID with duplicated time points.
    
 2. **Statistics Summary**
    - A DataFrame is created to include an indexed column of each drug regimen.
