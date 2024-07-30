@@ -5,7 +5,7 @@ This project utilized Matplotlib, Pandas, Scipy, and Sklearn to analyze and repo
 
 ### Key Componenets of the Report
 1. **Data Preparation**
-   - Opened Jupyter Notebook file <code style ="color:blue">[Pymaceuticals.ipynb]("C:\Users\Ernie\Documents\GitHub\matplotlib_challenge\Pymaceuticals\Pymaceuticals.ipynb")</code>
+   - Opened Jupyter Notebook file <code style ="color:blue">[Pymaceuticals.ipynb](https://github.com/Ernawaty2024/matplotlib_challenge/blob/main/Pymaceuticals/Pymaceuticals.ipynb)</code>
    - The <code style ="color:blue">[Mouse_metadata](https://github.com/Ernawaty2024/matplotlib_challenge/blob/main/data/Mouse_metadata.csv)</code> and <code style ="color:blue">[Study_results](https://github.com/Ernawaty2024/matplotlib_challenge/blob/main/data/Study_results.csv)</code> DataFrames were merged into a single DataFrame.
    - A cleaned DataFrame was done on the unique mice IDs by removing any mouse ID with duplicated time points.
    
